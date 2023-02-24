@@ -1,0 +1,15 @@
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\bin\Debug\net7.0\CoffeeMachine.exe
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\bin\Debug\net7.0\CoffeeMachine.deps.json
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\bin\Debug\net7.0\CoffeeMachine.runtimeconfig.json
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\bin\Debug\net7.0\CoffeeMachine.dll
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\bin\Debug\net7.0\CoffeeMachine.pdb
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.csproj.AssemblyReference.cache
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.AssemblyInfoInputs.cache
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.AssemblyInfo.cs
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.dll
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\refint\CoffeeMachine.dll
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.pdb
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\CoffeeMachine.genruntimeconfig.cache
+D:\GeekBrains\Объектно-ориентированное программирование (семинары)\DZ\HomeWork7\CoffeeMachine\CoffeeMachine\obj\Debug\net7.0\ref\CoffeeMachine.dll

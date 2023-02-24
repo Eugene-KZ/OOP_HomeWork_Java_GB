@@ -8,6 +8,6 @@ namespace CoffeeMachine
 {
     internal class Latte: Coffee
     {
-        Latte():base(taste: 5, cookingSpeed: 10) {}
+       public Latte():base(taste: 5, cookingSpeed: 10) {}
     }
 }

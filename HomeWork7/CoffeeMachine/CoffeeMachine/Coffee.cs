@@ -16,5 +16,10 @@ namespace CoffeeMachine
             this.taste = taste;
             this.cookingSpeed = cookingSpeed;
         }
+
+        public override string ToString()
+        {
+            return $"Вкус: {this.taste} \nСкорость: {this.cookingSpeed} ";
+        }
     }
 }
